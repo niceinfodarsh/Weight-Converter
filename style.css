@@ -1,0 +1,53 @@
+body {
+    margin-left: 620px;
+    margin-top: 210px;
+    background-image: url(pattern.jpg);
+}
+#ktg {
+    width: 190px;
+    height: 70px;
+    font-size: large;
+    background-color: black;
+    color: white;
+    border-radius: 15px;
+    font-weight: bold;
+}
+#ktg:hover{
+    width: 190px;
+    height: 70px;
+    font-size: large;
+    background-color: white;
+    color: black;
+    border-radius: 15px;
+    font-weight: bold;
+}
+#gtk {
+    width: 190px;
+    height: 70px;
+    font-size: large;
+    background-color: black;
+    color: white;
+    border-radius: 15px;
+    font-weight: bold;
+}
+#gtk:hover{
+    width: 190px;
+    height: 70px;
+    font-size: large;
+    background-color: white;
+    color: black;
+    border-radius: 15px;
+    font-weight: bold;
+}
+#lbl1 {
+    font-size: large;
+    cursor: pointer;
+    color: white;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+#lbl2 {
+    font-size: large;
+    cursor: pointer;
+    color: white;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
